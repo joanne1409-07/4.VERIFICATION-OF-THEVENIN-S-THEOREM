@@ -109,5 +109,6 @@ Thevenin’s equivalent circuit
 
 
 **RESULT:**
+
 Thus Thevenin's theorem is verified practically and theoretically
 
